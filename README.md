@@ -102,7 +102,7 @@ This project was developed by the following team members:
 1. Umra malik
 2. Kafil vara 
 3. Mahak malik
-4. Palak thakur
+4. Palak narayan
 
 
 Institution: Invertis University
